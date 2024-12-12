@@ -1,0 +1,26 @@
+body {
+	background-color: #3B6064;
+	padding: 2vw;
+	color: white;
+}
+
+h2 {
+	font-family: fredoka;
+}
+
+p {
+	font-family: fredoka;
+}
+
+.container {
+	background-color: #87BBA2;
+	border-radius: 10px;
+}
+
+.form-control {
+	padding: 10px;
+}
+
+.footer {
+	text-align: center;
+}
